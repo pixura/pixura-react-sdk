@@ -1,0 +1,24 @@
+{
+  "name": "pixura-react-sdk",
+  "version": "1.0.0",
+  "description": "Use react components for painless integration with the Pixura API",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixura/pixura-react-sdk.git"
+  },
+  "keywords": [
+    "ethereum",
+    "graphQL",
+    "react",
+    "javascript"
+  ],
+  "author": "Pixura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pixura/pixura-react-sdk/issues"
+  },
+  "homepage": "https://github.com/Pixura/pixura-react-sdk#readme"
+}
